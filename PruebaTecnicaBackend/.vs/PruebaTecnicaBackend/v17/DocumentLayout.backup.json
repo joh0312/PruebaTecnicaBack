@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sanz\\Desktop\\PruebaTecnicaBackend-master\\PruebaTecnicaBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{240718FB-3417-40AD-9084-66125EA02C6C}|API\\API.csproj|c:\\users\\sanz\\desktop\\pruebatecnicabackend-master\\pruebatecnicabackend\\api\\controllers\\schedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240718FB-3417-40AD-9084-66125EA02C6C}|API\\API.csproj|solutionrelative:api\\controllers\\schedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160CA63A-AF04-4255-903A-82F89B5B6FE2}|Data\\Data.csproj|c:\\users\\sanz\\desktop\\pruebatecnicabackend-master\\pruebatecnicabackend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160CA63A-AF04-4255-903A-82F89B5B6FE2}|Data\\Data.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFC8742-35C8-4500-ADEE-9E6E6EBA2EC4}|Models\\Models.csproj|c:\\users\\sanz\\desktop\\pruebatecnicabackend-master\\pruebatecnicabackend\\models\\entidades\\schedules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFC8742-35C8-4500-ADEE-9E6E6EBA2EC4}|Models\\Models.csproj|solutionrelative:models\\entidades\\schedules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFC8742-35C8-4500-ADEE-9E6E6EBA2EC4}|Models\\Models.csproj|c:\\users\\sanz\\desktop\\pruebatecnicabackend-master\\pruebatecnicabackend\\models\\entidades\\vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFC8742-35C8-4500-ADEE-9E6E6EBA2EC4}|Models\\Models.csproj|solutionrelative:models\\entidades\\vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFC8742-35C8-4500-ADEE-9E6E6EBA2EC4}|Models\\Models.csproj|c:\\users\\sanz\\desktop\\pruebatecnicabackend-master\\pruebatecnicabackend\\models\\entidades\\routes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFC8742-35C8-4500-ADEE-9E6E6EBA2EC4}|Models\\Models.csproj|solutionrelative:models\\entidades\\routes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240718FB-3417-40AD-9084-66125EA02C6C}|API\\API.csproj|c:\\users\\sanz\\desktop\\pruebatecnicabackend-master\\pruebatecnicabackend\\api\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240718FB-3417-40AD-9084-66125EA02C6C}|API\\API.csproj|solutionrelative:api\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240718FB-3417-40AD-9084-66125EA02C6C}|API\\API.csproj|c:\\users\\sanz\\desktop\\pruebatecnicabackend-master\\pruebatecnicabackend\\api\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240718FB-3417-40AD-9084-66125EA02C6C}|API\\API.csproj|solutionrelative:api\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFC8742-35C8-4500-ADEE-9E6E6EBA2EC4}|Models\\Models.csproj|c:\\users\\sanz\\desktop\\pruebatecnicabackend-master\\pruebatecnicabackend\\models\\entidades\\drivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFC8742-35C8-4500-ADEE-9E6E6EBA2EC4}|Models\\Models.csproj|solutionrelative:models\\entidades\\drivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehiclesController.cs",
+              "DocumentMoniker": "C:\\Users\\Sanz\\Desktop\\PruebaTecnicaBackend-master\\PruebaTecnicaBackend\\API\\Controllers\\VehiclesController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\VehiclesController.cs",
+              "ToolTip": "C:\\Users\\Sanz\\Desktop\\PruebaTecnicaBackend-master\\PruebaTecnicaBackend\\API\\Controllers\\VehiclesController.cs",
+              "RelativeToolTip": "API\\Controllers\\VehiclesController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwDMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:32:22.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehicles.cs",
+              "DocumentMoniker": "C:\\Users\\Sanz\\Desktop\\PruebaTecnicaBackend-master\\PruebaTecnicaBackend\\Models\\Entidades\\Vehicles.cs",
+              "RelativeDocumentMoniker": "Models\\Entidades\\Vehicles.cs",
+              "ToolTip": "C:\\Users\\Sanz\\Desktop\\PruebaTecnicaBackend-master\\PruebaTecnicaBackend\\Models\\Entidades\\Vehicles.cs",
+              "RelativeToolTip": "Models\\Entidades\\Vehicles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:26:29.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Routes.cs",
+              "DocumentMoniker": "C:\\Users\\Sanz\\Desktop\\PruebaTecnicaBackend-master\\PruebaTecnicaBackend\\Models\\Entidades\\Routes.cs",
+              "RelativeDocumentMoniker": "Models\\Entidades\\Routes.cs",
+              "ToolTip": "C:\\Users\\Sanz\\Desktop\\PruebaTecnicaBackend-master\\PruebaTecnicaBackend\\Models\\Entidades\\Routes.cs",
+              "RelativeToolTip": "Models\\Entidades\\Routes.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:23:49.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DriversController.cs",
+              "DocumentMoniker": "C:\\Users\\Sanz\\Desktop\\PruebaTecnicaBackend-master\\PruebaTecnicaBackend\\API\\Controllers\\DriversController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\DriversController.cs",
+              "ToolTip": "C:\\Users\\Sanz\\Desktop\\PruebaTecnicaBackend-master\\PruebaTecnicaBackend\\API\\Controllers\\DriversController.cs",
+              "RelativeToolTip": "API\\Controllers\\DriversController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAqwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:12:11.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SchedulesController.cs",
+              "DocumentMoniker": "C:\\Users\\Sanz\\Desktop\\PruebaTecnicaBackend-master\\PruebaTecnicaBackend\\API\\Controllers\\SchedulesController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\SchedulesController.cs",
+              "ToolTip": "C:\\Users\\Sanz\\Desktop\\PruebaTecnicaBackend-master\\PruebaTecnicaBackend\\API\\Controllers\\SchedulesController.cs",
+              "RelativeToolTip": "API\\Controllers\\SchedulesController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAkwHkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:09:50.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Schedules.cs",
+              "DocumentMoniker": "C:\\Users\\Sanz\\Desktop\\PruebaTecnicaBackend-master\\PruebaTecnicaBackend\\Models\\Entidades\\Schedules.cs",
+              "RelativeDocumentMoniker": "Models\\Entidades\\Schedules.cs",
+              "ToolTip": "C:\\Users\\Sanz\\Desktop\\PruebaTecnicaBackend-master\\PruebaTecnicaBackend\\Models\\Entidades\\Schedules.cs",
+              "RelativeToolTip": "Models\\Entidades\\Schedules.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:05:17.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sanz\\Desktop\\PruebaTecnicaBackend-master\\PruebaTecnicaBackend\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Sanz\\Desktop\\PruebaTecnicaBackend-master\\PruebaTecnicaBackend\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:25:36.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Drivers.cs",
+              "DocumentMoniker": "C:\\Users\\Sanz\\Desktop\\PruebaTecnicaBackend-master\\PruebaTecnicaBackend\\Models\\Entidades\\Drivers.cs",
+              "RelativeDocumentMoniker": "Models\\Entidades\\Drivers.cs",
+              "ToolTip": "C:\\Users\\Sanz\\Desktop\\PruebaTecnicaBackend-master\\PruebaTecnicaBackend\\Models\\Entidades\\Drivers.cs",
+              "RelativeToolTip": "Models\\Entidades\\Drivers.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:15:39.258Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
